@@ -125,7 +125,7 @@ p.intro {
 }
 
 .tranform-up:hover {
-  transform: translateY(-50%) scale(1.01);
+  transform: translateY(-25%) scale(1.01);
 }
 
 /* .quick-link:hover {
